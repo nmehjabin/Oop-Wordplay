@@ -2,7 +2,6 @@
 # Oct 14 2021
 # CMSC 141
 # Word Play 
-# Collaboration statement: I worked alone with assistance from the class lectures.
 
 # Part 1 : Madlibs
 
